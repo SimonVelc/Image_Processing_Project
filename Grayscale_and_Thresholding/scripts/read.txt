@@ -1,0 +1,14 @@
+A Python project for image processing and computer vision techniques using OpenCV and NumPy. Includes grayscale conversion, thresholding, color segmentation, and filtering for feature extraction.
+
+## 📌 Περιγραφή
+Αυτό το repository περιέχει κώδικα για βασικές τεχνικές επεξεργασίας εικόνας στην Python, όπως:
+- 🎨 **Μετατροπή εικόνας σε Grayscale**
+- 🔳 **Thresholding** για τον εντοπισμό περιοχών ενδιαφέροντος
+- 🌈 **Χρωματική ανάλυση RGB και HSV**
+- 🏷 **Segmentation** για διαχωρισμό αντικειμένων στην εικόνα
+- 🔍 **Filtering** για θόλωση και εξαγωγή χαρακτηριστικών  
+
+Χρησιμοποιούμε βιβλιοθήκες όπως **OpenCV, NumPy και Matplotlib** για την ανάλυση και επεξεργασία εικόνων.
+
+κατανοούμε βασικές αρχές επεξεργασίας εικόνας, όπως χρωματικά μοντέλα (RGB, HSV), segmentation, filtering και thresholding.
+
